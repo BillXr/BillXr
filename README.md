@@ -70,8 +70,19 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=billxr&show_icons=true&locale=en&layout=compact&hide=vhdl,C++,c,Makefile&theme=tokyonight)
 
+<!--
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=billxr&show_icons=true&locale=en&layout=compact" alt="billxr" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billxr&size_weight=0.5&count_weight=0.5)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=billxr)](https://github.com/billxr/github-readme-stats)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billxr&hide=javascript,css,scss,html&theme=tokyonight)
+
+--->
+
 
 
 
