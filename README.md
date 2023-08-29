@@ -70,7 +70,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=billxr&show_icons=true&locale=en&layout=compact&hide=&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=billxr&show_icons=true&locale=en&layout=compact&hide=&theme=tokyonight)  --->
 
 <!--
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=billxr&show_icons=true&locale=en&layout=compact" alt="billxr" /></p>
