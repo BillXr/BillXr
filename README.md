@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vasilis-christodoulou-1056b8254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasilis christodoulou" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vasileios-christodoulou-1056b8254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasilis christodoulou" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19956212/bill-christ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bill_christ" height="30" width="40" /></a>
 </p>
 
